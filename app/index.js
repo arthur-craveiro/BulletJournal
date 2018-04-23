@@ -3,7 +3,7 @@ import EStyleSheet from 'react-native-extended-stylesheet';
 
 import Themes from './screens/Themes';
 
-EStyleSheet.build ({
+EStyleSheet.build({
   $primaryBlue: '#4F6D7A',
   $primaryOrange: '#D57A66',
   $primaryGreen: '#00BD9D',
